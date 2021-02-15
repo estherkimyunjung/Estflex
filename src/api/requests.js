@@ -1,5 +1,5 @@
 
-import keys from './api/keys'
+import keys from './keys'
 
 const requests = {
   fetchTrending: `/trending/all/week?api_key=${keys.API_KEY}&language=en-US`,  
