@@ -3,13 +3,13 @@ import "./App.css";
 
 import requests from "./api/requests";
 import Row from "./Componet/Row.jsx";
+import NavBar from "./Componet/NavBar.jsx";
 import Banner from "./Componet/Banner.jsx";
 
 function App() {
   return (
     <div className="app">
-      {/* Navbar*/}
-      {/* Banner*/}
+      <NavBar />
       <Banner />
       {/* Main contents - Movies with images */}
       <Row
