@@ -1,4 +1,4 @@
-# ESTFLIX (https://esflex-clone.web.app)
+# ESTFLeX (https://esflex-clone.web.app)
 
 ### Useing TMDB API with Movie Wesite
 
